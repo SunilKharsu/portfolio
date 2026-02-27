@@ -3,13 +3,14 @@ import aboutTabs, { aboutSummary } from '../data/aboutData.js';
 
 function About() {
   const [activeTab, setActiveTab] = useState('skills');
+  const aboutImagePath = `${import.meta.env.BASE_URL}images/sunilPic.png`;
 
   return (
     <div id="about">
       <div className="container">
         <div className="row">
           <div className="about-col-1">
-            <img src="/images/sunilPic2.png" alt="Sunil" />
+            <img src={aboutImagePath} alt="Sunil" />
           </div>
           <div className="about-col-2">
             <h1 className="sub-title">About Me</h1>

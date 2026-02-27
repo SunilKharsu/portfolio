@@ -1,7 +1,7 @@
 export const contactInfo = {
   email: 'SunilKharsu02@gmail.com',
   phone: '+91-9518005924',
-  cvPath: '/images/my-cv.pdf',
+  cvPath: `${import.meta.env.BASE_URL}images/my-cv.pdf`,
 };
 
 const socialLinks = [
