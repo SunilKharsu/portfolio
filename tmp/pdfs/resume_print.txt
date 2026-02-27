@@ -1,0 +1,54 @@
+SUNIL KHARSU
++91 9518005924 | Gurugram, Haryana, India
+sunilkharsu20@gmail.com
+linkedin.com/in/sunil-kharsu-095066206 | github.com/SunilKharsu
+
+PROFESSIONAL SUMMARY
+Backend Developer focused on building scalable Java applications with Spring Boot, Hibernate,
+and REST APIs. Internship experience delivering production-oriented backend features, with
+strong DSA fundamentals (450+ problems solved across coding platforms). Motivated to build
+reliable, maintainable backend systems.
+
+EXPERIENCE
+IPREP Learning Solutions | Backend Intern                             Oct 2024 - Dec 2024
+- Developed and maintained RESTful APIs using Spring Boot and Hibernate for core backend modules.
+- Improved API structure and database interaction for cleaner service-layer design and easier maintenance.
+
+Senpiper Technologies | Web Development Intern                        Jun 2022 - Nov 2022
+- Built responsive and dynamic web pages using HTML, CSS, and JavaScript.
+- Collaborated on feature implementation and UI updates to improve usability.
+
+PROJECTS
+Quiz-Master Microservices                                             github.com/SunilKharsu/microservice_project
+- Built quiz and question services using Spring Boot microservices architecture.
+- Implemented inter-service communication to support real-time quiz workflows.
+
+Course Management System                                              github.com/SunilKharsu/course_management-backend
+- Designed and developed CRUD REST APIs using Spring Boot and Hibernate.
+- Structured layered backend components for courses, users, and enrollment operations.
+
+Sweet Home Booking App                                                github.com/SunilKharsu/sweet-home
+- Developed a hotel booking backend with search, booking, and payment-related features.
+- Built APIs for property listing, availability checks, and booking flow management.
+
+EDUCATION
+The NorthCap University, Gurugram - B.Tech in Computer Science        May 2024
+GPA: 7.0/10
+
+BRCM Public School, Bahal - Class XII (CBSE)                          May 2020
+89.7%
+
+BRCM Public School, Bahal - Class X (CBSE)                            May 2018
+84.5%
+
+SKILLS
+Languages: Java, JavaScript
+Frameworks/Libraries: Spring Boot, Spring Core, Hibernate, React.js
+Databases: MySQL, MongoDB
+Tools: Git, GitHub, Postman, IntelliJ IDEA, VS Code, STS
+Core Concepts: DSA, OOP, REST APIs, Operating Systems, DBMS
+
+PUBLICATIONS AND CODING PROFILES
+Research Paper: Cloud-Based Web Applications - easychair.org/publications/preprint/VW3H
+LeetCode: 200+ problems solved - leetcode.com/u/Sunil1800
+GeeksforGeeks: 250+ problems solved - geeksforgeeks.org/user/sunil1800
